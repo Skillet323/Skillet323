@@ -1,16 +1,16 @@
 ## Hi there 👋
-#Education
+## Education
 RTU MIREA: Applied computer science - data management 
 2023-2027
 
-#Additional Education
+## Additional Education
 Innopolis. Software Engineering: IT leaders of the future
 2024
 
-#Experience
+## Experience
 The VR operator - 2022-2024
 
-#Key skills
+## Key skills
 Python
 C++
 SQL
