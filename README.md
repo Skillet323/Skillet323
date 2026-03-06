@@ -6,6 +6,10 @@ RTU MIREA: Applied computer science - data management
 ## Additional Education
 Innopolis. Software Engineering: IT leaders of the future
 2024
+DevOps - Digital Department MIREA "DevOps Technologies"
+2024-2025
+AI_Course - Ingeneering AI - Digital competency for IT-sphere
+2025-2026
 
 ## Experience
 The VR operator - 2022-2024
@@ -13,6 +17,8 @@ The VR operator - 2022-2024
 ## Key skills
 Python
 C++
+Java
+R
 SQL
 <!--
 **Skillet323/Skillet323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
